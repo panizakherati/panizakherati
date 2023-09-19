@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paniz AKHERATI</h1>
 <h3 align="center">DataScientist from France</h3>
-<img align= "right" alt= "coding" width= "400" src="https://images.app.goo.gl/HnCBgK3a9hkxrn6u9">
+<img align= "right" alt= "coding" width= "400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panizakherati&label=Profile%20views&color=0e75b6&style=flat" alt="panizakherati" /> </p>
 
